@@ -1,0 +1,19 @@
+html {
+  height: 100vh;
+}
+
+body {
+  margin: 0px;
+  height: 100vh;
+}
+
+.header {
+  background: lightgray;
+  color: #333;
+  padding: .5vh;
+}
+
+.container {
+  height: 93vh;
+  overflow: auto;
+}
